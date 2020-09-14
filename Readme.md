@@ -1,3 +1,2 @@
 # Algorithms
-This folder contains all my homework for the algorithm specialization by Stanford on Coursera.
-The course websites is https://www.coursera.org/specializations/algorithms
+This folder contains all my homework for the 16 weeks algorithm course. I finished these homework long time ago in python without importing helper functions, for example, heap library.
