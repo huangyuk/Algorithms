@@ -1,2 +1,3 @@
+# Algorithms
 This folder contains all my homework for the algorithm specialization by Stanford on Coursera.
 The course websites is https://www.coursera.org/specializations/algorithms
